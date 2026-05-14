@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022931772241",
+    "project_id": "reddoorz-intprog",
+    "storage_bucket": "reddoorz-intprog.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022931772241:android:f7fea9c96e67196de0e970",
+        "android_client_info": {
+          "package_name": "com.example.reddoorz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWIIeIjey3hL-Eo1J_OcR53FmPpvnu6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
